@@ -7,7 +7,7 @@ import {
   USDC_ADDRESS,
   WETH9,
   WETH9_ADDRESS,
-} from '@sushiswap/core-sdk'
+} from '@clonedex/core-sdk'
 
 import { ConstantProductPool } from '../../src/entities/ConstantProductPool'
 import EXPORTS from '@sushiswap/trident/exports/all.json'

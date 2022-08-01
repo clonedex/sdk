@@ -1,4 +1,4 @@
-import { ChainId, WNATIVE_ADDRESS, ZERO, getProviderOrSigner, toElastic } from '@sushiswap/core-sdk'
+import { ChainId, WNATIVE_ADDRESS, ZERO, getProviderOrSigner, toElastic } from '@clonedex/core-sdk'
 
 import { AddressZero } from '@ethersproject/constants'
 import { Contract } from '@ethersproject/contracts'
@@ -8,7 +8,7 @@ import { KashiAction } from '../enums'
 import { KashiPermit } from '../interfaces'
 import { Web3Provider } from '@ethersproject/providers'
 import { defaultAbiCoder } from '@ethersproject/abi'
-import { toShare } from '@sushiswap/bentobox-sdk'
+import { toShare } from '@clonedex/bentobox-sdk'
 
 export class KashiCooker {
   private pair: any

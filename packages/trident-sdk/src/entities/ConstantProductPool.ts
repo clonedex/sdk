@@ -8,7 +8,7 @@ import {
   Token,
   ZERO,
   sqrt,
-} from '@sushiswap/core-sdk'
+} from '@clonedex/core-sdk'
 
 import EXPORTS from '@sushiswap/trident/exports/all.json'
 import { Fee } from '../enums/Fee'

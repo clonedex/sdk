@@ -1,5 +1,5 @@
 import { AccrueInfo } from './AccrueInfo'
-import { Rebase, JSBI } from '@sushiswap/core-sdk'
+import { Rebase, JSBI } from '@clonedex/core-sdk'
 
 export interface KashiPair {
   readonly accrueInfo: AccrueInfo

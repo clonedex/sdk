@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
-import { Pair, Token } from '@sushiswap/core-sdk'
-import { findSingleRouteExactOut as TinesFindSingleRouteExactOut, MultiRoute, RToken } from '@sushiswap/tines'
+import { Pair, Token } from '@clonedex/core-sdk'
+import { findSingleRouteExactOut as TinesFindSingleRouteExactOut, MultiRoute, RToken } from '@clonedex/tines'
 import { Pool } from '../entities/Pool'
 import { convertPoolOrPairtoRPool } from './convertPoolOrPairtoRPool'
 

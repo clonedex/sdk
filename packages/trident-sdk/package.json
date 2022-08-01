@@ -1,6 +1,6 @@
 {
-  "name": "@sushiswap/trident-sdk",
-  "version": "1.0.0-canary.137",
+  "name": "@clonedex/trident-sdk",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -9,7 +9,7 @@
   ],
   "module": "dist/trident-sdk.esm.js",
   "repository": {
-    "url": "sushiswap/sdk",
+    "url": "clonedex/sdk",
     "directory": "packages/trident-sdk"
   },
   "publishConfig": {
@@ -24,10 +24,10 @@
     "prepublishOnly": "npx tsdx build"
   },
   "dependencies": {
+    "@clonedex/core-sdk": "1.0.0",
+    "@clonedex/tines": "1.0.0",
     "@ethersproject/abi": "^5.4.0",
     "@ethersproject/bignumber": "^5.4.0",
-    "@sushiswap/core-sdk": "1.0.0-canary.128",
-    "@sushiswap/tines": "1.0.0-canary.112",
     "@sushiswap/trident": "1.0.0-canary.40",
     "tiny-invariant": "^1.1.0",
     "trident-preview": "npm:@sushiswap/trident@1.0.0-canary.36"

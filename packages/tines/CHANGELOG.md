@@ -3,95 +3,95 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-canary.112](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.111...@sushiswap/tines@1.0.0-canary.112) (2022-07-26)
+# [1.0.0](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.111...@clonedex/tines@1.0.0) (2022-07-26)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.111](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.110...@sushiswap/tines@1.0.0-canary.111) (2022-07-26)
+# [1.0.0-canary.111](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.110...@clonedex/tines@1.0.0-canary.111) (2022-07-26)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.110](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.109...@sushiswap/tines@1.0.0-canary.110) (2022-07-25)
+# [1.0.0-canary.110](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0...@clonedex/tines@1.0.0-canary.110) (2022-07-25)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.109](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.108...@sushiswap/tines@1.0.0-canary.109) (2022-07-25)
+# [1.0.0](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.108...@clonedex/tines@1.0.0) (2022-07-25)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.108](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.107...@sushiswap/tines@1.0.0-canary.108) (2022-07-25)
+# [1.0.0-canary.108](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.107...@clonedex/tines@1.0.0-canary.108) (2022-07-25)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.107](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.106...@sushiswap/tines@1.0.0-canary.107) (2022-07-13)
+# [1.0.0-canary.107](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.106...@clonedex/tines@1.0.0-canary.107) (2022-07-13)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.106](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.105...@sushiswap/tines@1.0.0-canary.106) (2022-07-13)
+# [1.0.0-canary.106](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.105...@clonedex/tines@1.0.0-canary.106) (2022-07-13)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.105](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.104...@sushiswap/tines@1.0.0-canary.105) (2022-07-13)
+# [1.0.0-canary.105](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.104...@clonedex/tines@1.0.0-canary.105) (2022-07-13)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.104](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.103...@sushiswap/tines@1.0.0-canary.104) (2022-07-13)
+# [1.0.0-canary.104](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.103...@clonedex/tines@1.0.0-canary.104) (2022-07-13)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.103](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.102...@sushiswap/tines@1.0.0-canary.103) (2022-07-13)
+# [1.0.0-canary.103](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.102...@clonedex/tines@1.0.0-canary.103) (2022-07-13)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.102](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.101...@sushiswap/tines@1.0.0-canary.102) (2022-07-13)
+# [1.0.0-canary.102](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.101...@clonedex/tines@1.0.0-canary.102) (2022-07-13)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.101](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.96...@sushiswap/tines@1.0.0-canary.101) (2022-07-13)
+# [1.0.0-canary.101](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.96...@clonedex/tines@1.0.0-canary.101) (2022-07-13)
 
 
 ### Bug Fixes
@@ -112,143 +112,143 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.96](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.95...@sushiswap/tines@1.0.0-canary.96) (2022-06-16)
+# [1.0.0-canary.96](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.95...@clonedex/tines@1.0.0-canary.96) (2022-06-16)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.95](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.94...@sushiswap/tines@1.0.0-canary.95) (2022-06-14)
+# [1.0.0-canary.95](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.94...@clonedex/tines@1.0.0-canary.95) (2022-06-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.94](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.93...@sushiswap/tines@1.0.0-canary.94) (2022-06-06)
+# [1.0.0-canary.94](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.93...@clonedex/tines@1.0.0-canary.94) (2022-06-06)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.93](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.92...@sushiswap/tines@1.0.0-canary.93) (2022-06-06)
+# [1.0.0-canary.93](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.92...@clonedex/tines@1.0.0-canary.93) (2022-06-06)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.92](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.91...@sushiswap/tines@1.0.0-canary.92) (2022-06-06)
+# [1.0.0-canary.92](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.91...@clonedex/tines@1.0.0-canary.92) (2022-06-06)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.91](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.90...@sushiswap/tines@1.0.0-canary.91) (2022-06-05)
+# [1.0.0-canary.91](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.90...@clonedex/tines@1.0.0-canary.91) (2022-06-05)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.90](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.89...@sushiswap/tines@1.0.0-canary.90) (2022-05-15)
+# [1.0.0-canary.90](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.89...@clonedex/tines@1.0.0-canary.90) (2022-05-15)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.89](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.88...@sushiswap/tines@1.0.0-canary.89) (2022-05-15)
+# [1.0.0-canary.89](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.88...@clonedex/tines@1.0.0-canary.89) (2022-05-15)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.88](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.87...@sushiswap/tines@1.0.0-canary.88) (2022-05-13)
+# [1.0.0-canary.88](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.87...@clonedex/tines@1.0.0-canary.88) (2022-05-13)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.87](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.86...@sushiswap/tines@1.0.0-canary.87) (2022-05-09)
+# [1.0.0-canary.87](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.86...@clonedex/tines@1.0.0-canary.87) (2022-05-09)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.86](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.85...@sushiswap/tines@1.0.0-canary.86) (2022-05-04)
+# [1.0.0-canary.86](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.85...@clonedex/tines@1.0.0-canary.86) (2022-05-04)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.85](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.84...@sushiswap/tines@1.0.0-canary.85) (2022-05-04)
+# [1.0.0-canary.85](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.84...@clonedex/tines@1.0.0-canary.85) (2022-05-04)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.84](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.83...@sushiswap/tines@1.0.0-canary.84) (2022-05-04)
+# [1.0.0-canary.84](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.83...@clonedex/tines@1.0.0-canary.84) (2022-05-04)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.83](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.82...@sushiswap/tines@1.0.0-canary.83) (2022-05-04)
+# [1.0.0-canary.83](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.82...@clonedex/tines@1.0.0-canary.83) (2022-05-04)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.82](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.81...@sushiswap/tines@1.0.0-canary.82) (2022-05-04)
+# [1.0.0-canary.82](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.81...@clonedex/tines@1.0.0-canary.82) (2022-05-04)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.81](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.80...@sushiswap/tines@1.0.0-canary.81) (2022-05-04)
+# [1.0.0-canary.81](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.80...@clonedex/tines@1.0.0-canary.81) (2022-05-04)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.80](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.79...@sushiswap/tines@1.0.0-canary.80) (2022-05-04)
+# [1.0.0-canary.80](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.79...@clonedex/tines@1.0.0-canary.80) (2022-05-04)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.79](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.76...@sushiswap/tines@1.0.0-canary.79) (2022-05-04)
+# [1.0.0-canary.79](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.76...@clonedex/tines@1.0.0-canary.79) (2022-05-04)
 
 
 ### Bug Fixes
@@ -265,369 +265,369 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.76](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.75...@sushiswap/tines@1.0.0-canary.76) (2022-04-16)
+# [1.0.0-canary.76](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.75...@clonedex/tines@1.0.0-canary.76) (2022-04-16)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.75](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.74...@sushiswap/tines@1.0.0-canary.75) (2022-04-13)
+# [1.0.0-canary.75](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.74...@clonedex/tines@1.0.0-canary.75) (2022-04-13)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.74](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.73...@sushiswap/tines@1.0.0-canary.74) (2022-04-07)
+# [1.0.0-canary.74](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.73...@clonedex/tines@1.0.0-canary.74) (2022-04-07)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.73](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.72...@sushiswap/tines@1.0.0-canary.73) (2022-03-20)
+# [1.0.0-canary.73](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.72...@clonedex/tines@1.0.0-canary.73) (2022-03-20)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.72](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.71...@sushiswap/tines@1.0.0-canary.72) (2022-03-18)
+# [1.0.0-canary.72](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.71...@clonedex/tines@1.0.0-canary.72) (2022-03-18)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.71](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.70...@sushiswap/tines@1.0.0-canary.71) (2022-03-18)
+# [1.0.0-canary.71](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.70...@clonedex/tines@1.0.0-canary.71) (2022-03-18)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.70](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.69...@sushiswap/tines@1.0.0-canary.70) (2022-03-17)
+# [1.0.0-canary.70](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.69...@clonedex/tines@1.0.0-canary.70) (2022-03-17)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.69](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.68...@sushiswap/tines@1.0.0-canary.69) (2022-03-17)
+# [1.0.0-canary.69](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.68...@clonedex/tines@1.0.0-canary.69) (2022-03-17)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.68](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.67...@sushiswap/tines@1.0.0-canary.68) (2022-03-11)
+# [1.0.0-canary.68](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.67...@clonedex/tines@1.0.0-canary.68) (2022-03-11)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.67](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.66...@sushiswap/tines@1.0.0-canary.67) (2022-03-11)
+# [1.0.0-canary.67](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.66...@clonedex/tines@1.0.0-canary.67) (2022-03-11)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.66](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.65...@sushiswap/tines@1.0.0-canary.66) (2022-03-11)
+# [1.0.0-canary.66](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.65...@clonedex/tines@1.0.0-canary.66) (2022-03-11)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.65](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.64...@sushiswap/tines@1.0.0-canary.65) (2022-03-11)
+# [1.0.0-canary.65](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.64...@clonedex/tines@1.0.0-canary.65) (2022-03-11)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.64](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.63...@sushiswap/tines@1.0.0-canary.64) (2022-03-11)
+# [1.0.0-canary.64](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.63...@clonedex/tines@1.0.0-canary.64) (2022-03-11)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.63](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.62...@sushiswap/tines@1.0.0-canary.63) (2022-03-10)
+# [1.0.0-canary.63](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.62...@clonedex/tines@1.0.0-canary.63) (2022-03-10)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.62](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.61...@sushiswap/tines@1.0.0-canary.62) (2022-03-10)
+# [1.0.0-canary.62](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.61...@clonedex/tines@1.0.0-canary.62) (2022-03-10)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.61](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.60...@sushiswap/tines@1.0.0-canary.61) (2022-03-09)
+# [1.0.0-canary.61](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.60...@clonedex/tines@1.0.0-canary.61) (2022-03-09)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.60](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.59...@sushiswap/tines@1.0.0-canary.60) (2022-02-28)
+# [1.0.0-canary.60](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.59...@clonedex/tines@1.0.0-canary.60) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.59](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.58...@sushiswap/tines@1.0.0-canary.59) (2022-02-28)
+# [1.0.0-canary.59](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.58...@clonedex/tines@1.0.0-canary.59) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.58](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.57...@sushiswap/tines@1.0.0-canary.58) (2022-02-28)
+# [1.0.0-canary.58](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.57...@clonedex/tines@1.0.0-canary.58) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.57](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.56...@sushiswap/tines@1.0.0-canary.57) (2022-02-28)
+# [1.0.0-canary.57](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.56...@clonedex/tines@1.0.0-canary.57) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.56](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.55...@sushiswap/tines@1.0.0-canary.56) (2022-02-28)
+# [1.0.0-canary.56](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.55...@clonedex/tines@1.0.0-canary.56) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.55](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.54...@sushiswap/tines@1.0.0-canary.55) (2022-02-28)
+# [1.0.0-canary.55](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.54...@clonedex/tines@1.0.0-canary.55) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.54](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.53...@sushiswap/tines@1.0.0-canary.54) (2022-02-28)
+# [1.0.0-canary.54](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.53...@clonedex/tines@1.0.0-canary.54) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.53](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.52...@sushiswap/tines@1.0.0-canary.53) (2022-02-28)
+# [1.0.0-canary.53](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.52...@clonedex/tines@1.0.0-canary.53) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.52](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.51...@sushiswap/tines@1.0.0-canary.52) (2022-02-28)
+# [1.0.0-canary.52](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.51...@clonedex/tines@1.0.0-canary.52) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.51](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.50...@sushiswap/tines@1.0.0-canary.51) (2022-02-24)
+# [1.0.0-canary.51](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.50...@clonedex/tines@1.0.0-canary.51) (2022-02-24)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.50](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.49...@sushiswap/tines@1.0.0-canary.50) (2022-02-21)
+# [1.0.0-canary.50](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.49...@clonedex/tines@1.0.0-canary.50) (2022-02-21)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.49](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.48...@sushiswap/tines@1.0.0-canary.49) (2022-02-21)
+# [1.0.0-canary.49](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.48...@clonedex/tines@1.0.0-canary.49) (2022-02-21)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.48](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.47...@sushiswap/tines@1.0.0-canary.48) (2022-02-03)
+# [1.0.0-canary.48](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.47...@clonedex/tines@1.0.0-canary.48) (2022-02-03)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.47](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.46...@sushiswap/tines@1.0.0-canary.47) (2022-01-25)
+# [1.0.0-canary.47](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.46...@clonedex/tines@1.0.0-canary.47) (2022-01-25)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.46](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.45...@sushiswap/tines@1.0.0-canary.46) (2022-01-24)
+# [1.0.0-canary.46](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.45...@clonedex/tines@1.0.0-canary.46) (2022-01-24)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.45](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.44...@sushiswap/tines@1.0.0-canary.45) (2022-01-24)
+# [1.0.0-canary.45](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.44...@clonedex/tines@1.0.0-canary.45) (2022-01-24)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.44](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.43...@sushiswap/tines@1.0.0-canary.44) (2022-01-23)
+# [1.0.0-canary.44](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.43...@clonedex/tines@1.0.0-canary.44) (2022-01-23)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.43](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.42...@sushiswap/tines@1.0.0-canary.43) (2022-01-23)
+# [1.0.0-canary.43](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.42...@clonedex/tines@1.0.0-canary.43) (2022-01-23)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.42](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.41...@sushiswap/tines@1.0.0-canary.42) (2022-01-23)
+# [1.0.0-canary.42](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.41...@clonedex/tines@1.0.0-canary.42) (2022-01-23)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.41](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.40...@sushiswap/tines@1.0.0-canary.41) (2022-01-23)
+# [1.0.0-canary.41](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.40...@clonedex/tines@1.0.0-canary.41) (2022-01-23)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.40](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.39...@sushiswap/tines@1.0.0-canary.40) (2022-01-19)
+# [1.0.0-canary.40](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.39...@clonedex/tines@1.0.0-canary.40) (2022-01-19)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.39](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.38...@sushiswap/tines@1.0.0-canary.39) (2022-01-19)
+# [1.0.0-canary.39](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.38...@clonedex/tines@1.0.0-canary.39) (2022-01-19)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.38](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.37...@sushiswap/tines@1.0.0-canary.38) (2022-01-19)
+# [1.0.0-canary.38](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.37...@clonedex/tines@1.0.0-canary.38) (2022-01-19)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.37](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.36...@sushiswap/tines@1.0.0-canary.37) (2022-01-18)
+# [1.0.0-canary.37](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.36...@clonedex/tines@1.0.0-canary.37) (2022-01-18)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.36](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.35...@sushiswap/tines@1.0.0-canary.36) (2022-01-18)
+# [1.0.0-canary.36](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.35...@clonedex/tines@1.0.0-canary.36) (2022-01-18)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.35](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.34...@sushiswap/tines@1.0.0-canary.35) (2022-01-17)
+# [1.0.0-canary.35](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.34...@clonedex/tines@1.0.0-canary.35) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.34](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.33...@sushiswap/tines@1.0.0-canary.34) (2022-01-17)
+# [1.0.0-canary.34](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.33...@clonedex/tines@1.0.0-canary.34) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.33](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.32...@sushiswap/tines@1.0.0-canary.33) (2022-01-17)
+# [1.0.0-canary.33](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.32...@clonedex/tines@1.0.0-canary.33) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.32](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.31...@sushiswap/tines@1.0.0-canary.32) (2022-01-17)
+# [1.0.0-canary.32](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.31...@clonedex/tines@1.0.0-canary.32) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.31](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.30...@sushiswap/tines@1.0.0-canary.31) (2022-01-17)
+# [1.0.0-canary.31](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.30...@clonedex/tines@1.0.0-canary.31) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
@@ -635,7 +635,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.30 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
@@ -643,7 +643,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.29 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
@@ -651,15 +651,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.28 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
 
 
-# [1.0.0-canary.27](https://github.com/sushiswap/sdk/compare/@sushiswap/tines@1.0.0-canary.26...@sushiswap/tines@1.0.0-canary.27) (2022-01-14)
+# [1.0.0-canary.27](https://github.com/sushiswap/sdk/compare/@clonedex/tines@1.0.0-canary.26...@clonedex/tines@1.0.0-canary.27) (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
@@ -667,7 +667,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.26 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
@@ -675,7 +675,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.25 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
@@ -683,7 +683,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.24 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
@@ -691,7 +691,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.23 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
@@ -710,7 +710,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.21 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines
 
 
 
@@ -718,4 +718,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.20 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/tines
+**Note:** Version bump only for package @clonedex/tines

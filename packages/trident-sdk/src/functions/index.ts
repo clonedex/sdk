@@ -9,5 +9,5 @@ export { findMultiRouteExactIn } from './findMultiRouteExactIn'
 export { findMultiRouteExactOut } from './findMultiRouteExactOut'
 export { findSingleRouteExactIn } from './findSingleRouteExactIn'
 export { findSingleRouteExactOut } from './findSingleRouteExactOut'
-export { MultiRoute, PoolType, RouteStatus, getBigNumber, closeValues } from "@sushiswap/tines"
+export { MultiRoute, PoolType, RouteStatus, getBigNumber, closeValues } from "@clonedex/tines"
 

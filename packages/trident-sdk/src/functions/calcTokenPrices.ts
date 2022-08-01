@@ -1,5 +1,5 @@
-import { Pair, Price, Token } from '@sushiswap/core-sdk'
-import { calcTokenPrices as TinesCalcTokenPrices, RToken } from '@sushiswap/tines'
+import { Pair, Price, Token } from '@clonedex/core-sdk'
+import { calcTokenPrices as TinesCalcTokenPrices, RToken } from '@clonedex/tines'
 import { convertPoolOrPairtoRPool } from './convertPoolOrPairtoRPool'
 import { Pool } from '../entities/Pool'
 

@@ -1,9 +1,9 @@
-import { Currency, Pair, Route } from '@sushiswap/core-sdk'
+import { Currency, Pair, Route } from '@clonedex/core-sdk'
 import {
 
   MultiRoute,
 
-} from '@sushiswap/tines'
+} from '@clonedex/tines'
 
 export function convertTinesSingleRouteToLegacyRoute<TInput extends Currency, TOutput extends Currency>(
   route: MultiRoute,

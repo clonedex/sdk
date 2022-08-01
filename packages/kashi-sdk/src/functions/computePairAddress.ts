@@ -1,7 +1,7 @@
 import { keccak256 } from '@ethersproject/solidity'
 import { getCreate2Address } from '@ethersproject/address'
 import { defaultAbiCoder } from '@ethersproject/abi'
-import { Token, BENTOBOX_ADDRESS, KASHI_ADDRESS } from '@sushiswap/core-sdk'
+import { Token, BENTOBOX_ADDRESS, KASHI_ADDRESS } from '@clonedex/core-sdk'
 
 export const computePairAddress = ({
   collateral,

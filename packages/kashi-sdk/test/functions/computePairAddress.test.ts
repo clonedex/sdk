@@ -1,4 +1,4 @@
-import { ChainId, Token, WETH9_ADDRESS, USDC_ADDRESS, CHAINLINK_ORACLE_ADDRESS } from '@sushiswap/core-sdk'
+import { ChainId, Token, WETH9_ADDRESS, USDC_ADDRESS, CHAINLINK_ORACLE_ADDRESS } from '@clonedex/core-sdk'
 
 import { computePairAddress } from '../../src/functions/computePairAddress'
 

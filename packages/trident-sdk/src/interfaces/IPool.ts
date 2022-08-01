@@ -1,4 +1,4 @@
-import { ChainId, CurrencyAmount, Price, Token } from '@sushiswap/core-sdk'
+import { ChainId, CurrencyAmount, Price, Token } from '@clonedex/core-sdk'
 
 import { Fee } from '../enums/Fee'
 

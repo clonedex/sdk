@@ -1,5 +1,5 @@
-import { Currency, CurrencyAmount, Fraction, JSBI, ONE, Percent, Price, TradeType, ZERO } from '@sushiswap/core-sdk'
-import { MultiRoute, RToken } from '@sushiswap/tines'
+import { Currency, CurrencyAmount, Fraction, JSBI, ONE, Percent, Price, TradeType, ZERO } from '@clonedex/core-sdk'
+import { MultiRoute, RToken } from '@clonedex/tines'
 
 import invariant from 'tiny-invariant'
 

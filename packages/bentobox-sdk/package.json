@@ -1,6 +1,6 @@
 {
-  "name": "@sushiswap/bentobox-sdk",
-  "version": "1.0.0-canary.109",
+  "name": "@clonedex/bentobox-sdk",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -9,7 +9,7 @@
   ],
   "module": "dist/bentobox-sdk.esm.js",
   "repository": {
-    "url": "sushiswap/sdk",
+    "url": "clonedex/sdk",
     "directory": "packages/bentobox-sdk"
   },
   "publishConfig": {
@@ -24,7 +24,7 @@
     "prepublishOnly": "npx tsdx build"
   },
   "dependencies": {
-    "@sushiswap/core-sdk": "1.0.0-canary.128"
+    "@clonedex/core-sdk": "1.0.0"
   },
   "devDependencies": {
     "tsdx": "^0.14.1"

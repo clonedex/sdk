@@ -1,6 +1,6 @@
 {
-  "name": "@sushiswap/limit-order-sdk",
-  "version": "1.0.0-canary.109",
+  "name": "@clonedex/limit-order-sdk",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -9,7 +9,7 @@
   ],
   "module": "dist/limit-order-sdk.esm.js",
   "repository": {
-    "url": "sushiswap/sdk",
+    "url": "clonedex/sdk",
     "directory": "packages/limit-order-sdk"
   },
   "publishConfig": {
@@ -24,6 +24,7 @@
     "prepublishOnly": "npx tsdx build"
   },
   "dependencies": {
+    "@clonedex/core-sdk": "1.0.0",
     "@ethersproject/abi": "^5.4.0",
     "@ethersproject/abstract-signer": "^5.4.0",
     "@ethersproject/bytes": "^5.4.0",
@@ -31,7 +32,6 @@
     "@ethersproject/experimental": "^5.4.0",
     "@ethersproject/signing-key": "^5.4.0",
     "@ethersproject/transactions": "^5.4.0",
-    "@sushiswap/core-sdk": "1.0.0-canary.128",
     "eip-712": "^0.4.0",
     "isomorphic-unfetch": "^3.0.0"
   },

@@ -33,4 +33,6 @@ export enum ChainId {
   OPTIMISM = 10,
   KAVA = 2222,
   METIS = 1088,
+  JFIN_TESTNET = 3502,
+  JFIN = 3501
 }

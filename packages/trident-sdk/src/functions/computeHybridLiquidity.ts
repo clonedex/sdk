@@ -1,4 +1,4 @@
-import { JSBI, ONE, ZERO, difference } from '@sushiswap/core-sdk'
+import { JSBI, ONE, ZERO, difference } from '@clonedex/core-sdk'
 
 import { A_PRECISION } from '../constants'
 

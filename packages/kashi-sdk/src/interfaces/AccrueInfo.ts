@@ -1,4 +1,4 @@
-import { JSBI } from '@sushiswap/core-sdk'
+import { JSBI } from '@clonedex/core-sdk'
 
 export interface AccrueInfo {
   interestPerSecond: JSBI

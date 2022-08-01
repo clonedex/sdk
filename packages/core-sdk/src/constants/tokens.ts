@@ -102,6 +102,13 @@ export const WNATIVE: TokenMap = {
     'WBNB',
     'Wrapped BNB'
   ),
+  [ChainId.JFIN_TESTNET]: new Token(
+    ChainId.JFIN_TESTNET,
+    WNATIVE_ADDRESS[ChainId.JFIN_TESTNET],
+    18,
+    'WJFIN',
+    'Wrapped JFIN'
+  ),
   [ChainId.ARBITRUM]: WETH9[ChainId.ARBITRUM],
   [ChainId.ARBITRUM_TESTNET]: WETH9[ChainId.ARBITRUM_TESTNET],
   [ChainId.MOONBEAM_TESTNET]: new Token(
@@ -180,5 +187,4 @@ export const SUSHI: ChainTokenMap = {
   [ChainId.TELOS]: new Token(ChainId.TELOS, SUSHI_ADDRESS[ChainId.TELOS], 18, 'SUSHI', 'SushiToken'),
   [ChainId.MOONBEAM]: new Token(ChainId.MOONBEAM, SUSHI_ADDRESS[ChainId.MOONBEAM], 18, 'SUSHI', 'SushiToken'),
   [ChainId.KAVA]: new Token(ChainId.KAVA, SUSHI_ADDRESS[ChainId.KAVA], 18, 'SUSHI', 'SushiToken'),
-  [ChainId.METIS]: new Token(ChainId.METIS, SUSHI_ADDRESS[ChainId.METIS], 18, 'SUSHI', 'SushiToken'),
 }
